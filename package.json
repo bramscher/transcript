@@ -1,0 +1,15 @@
+{
+    "name": "youtube-transcript-api",
+    "version": "1.0.0",
+    "description": "Fetch YouTube captions without Puppeteer",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "cors": "^2.8.5",
+      "youtube-captions-scraper": "^1.2.0"
+    }
+  }
+  
